@@ -8,14 +8,17 @@ Hi, I’m @Lakunsin
 • Network Scanning & Enumeration (Nmap, Amass)  
 • Vulnerability Assessment  
 • OSINT & Reconnaissance
+
 • Cloud Computing Basics & GRC
 
 📊 Data Skills:
+
 • Excel, SQL, Tableau  
 • Data Cleaning & Visualization  
 • Exploratory Data Analysis  
 
 I’m looking to collaborate on:
+
 • Data Analysis Projects  
 • Entry-level Cybersecurity Projects/Internships/Roles (SOC, Blue Team, Labs)  
 
