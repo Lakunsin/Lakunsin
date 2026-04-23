@@ -8,7 +8,6 @@ Hi, I’m @Lakunsin
 • Network Scanning & Enumeration (Nmap, Amass)  
 • Vulnerability Assessment  
 • OSINT & Reconnaissance
-
 • Cloud Computing Basics & GRC
 
 📊 Data Skills:
