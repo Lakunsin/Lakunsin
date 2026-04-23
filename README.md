@@ -3,16 +3,12 @@ Hi, I’m @Lakunsin
 👀 I’m into Data Analysis & Cybersecurity  
 
 🔐 Cybersecurity Focus:
-
 • SOC Analysis & Incident Response  
 • Network Scanning & Enumeration (Nmap, Amass)  
-• Vulnerability Assessment 
-• OSINT & Reconnaissance 
-
-• Cloud Computing Basics & GRC
+• Vulnerability Assessment  
+• OSINT & Reconnaissance
 
 📊 Data Skills:
-
 • Excel, SQL, Tableau  
 • Data Cleaning & Visualization  
 • Exploratory Data Analysis  
