@@ -1,4 +1,4 @@
-👋 Hi, I’m @Lakunsin  
+Hi, I’m @Lakunsin  
 
 I’m into Data Analysis & Cybersecurity  
 
@@ -13,7 +13,7 @@ I’m into Data Analysis & Cybersecurity
 • Data Cleaning & Visualization  
 • Exploratory Data Analysis  
 
-💞️ I’m looking to collaborate on:  
+I’m looking to collaborate on:  
 • Data Analysis Projects  
 • Entry-level Cybersecurity Projects (SOC, Blue Team, Labs)  
 
