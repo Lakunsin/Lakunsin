@@ -3,6 +3,7 @@ Hi, I’m @Lakunsin
 👀 I’m into Data Analysis & Cybersecurity  
 
 🔐 Cybersecurity Focus:
+
 • SOC Analysis & Incident Response  
 • Network Scanning & Enumeration (Nmap, Amass)  
 • Vulnerability Assessment  
