@@ -1,22 +1,21 @@
-Hi, I’m @Lakunsin  
+👋 Hi, I’m @Lakunsin  
 
-👀 I’m into Data Analysis & Cybersecurity  
+I’m into Data Analysis & Cybersecurity  
 
-🔐 Cybersecurity Focus:
+🔐 Cybersecurity Focus:  
 • SOC Analysis & Incident Response  
 • Network Scanning & Enumeration (Nmap, Amass)  
 • Vulnerability Assessment  
-• OSINT & Reconnaissance
+• OSINT & Reconnaissance  
 
-📊 Data Skills:
+📊 Data Skills:  
 • Excel, SQL, Tableau  
 • Data Cleaning & Visualization  
 • Exploratory Data Analysis  
 
-I’m looking to collaborate on:
-
+💞️ I’m looking to collaborate on:  
 • Data Analysis Projects  
-• Entry-level Cybersecurity Projects/Internships/Roles (SOC, Blue Team, Labs)  
+• Entry-level Cybersecurity Projects (SOC, Blue Team, Labs)  
 
 ⚡ Fun fact: Male bees (drones) don’t have stingers.
 
