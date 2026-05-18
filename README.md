@@ -1,6 +1,6 @@
 Hi, I’m @Lakunsin  
 
-I’m into Data Analysis & Cybersecurity  
+I’m into Cybersecurity & Data Analysis   
 
 🔐 Cybersecurity Focus:  
 • SOC Analysis & Incident Response  
